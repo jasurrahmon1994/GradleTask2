@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.epam.StringUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-08T15:05:56" hostname="JASURRAHMONOV" time="0.14">
+<testsuite name="com.epam.StringUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-27T07:14:33" hostname="JASURRAHMONOV" time="0.154">
   <properties/>
-  <testcase name="isPositiveNumberTest()" classname="com.epam.StringUtilsTest" time="0.14"/>
+  <testcase name="isPositiveNumberTest()" classname="com.epam.StringUtilsTest" time="0.154"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
